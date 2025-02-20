@@ -13,7 +13,7 @@
 This repository contains the source and tools used to build the [Raspberry Pi Documentation](https://www.raspberrypi.com/documentation/).
 
 [Raspberry Pi]: https://www.raspberrypi.com/
-[Getting Started]: https://www.raspberrypi.com/documentation/computers/getting-started.html
+[Getting Started]: sudo apt install rpi-imager
 [Documentation]: https://www.raspberrypi.com/documentation/
 [Contribute]: CONTRIBUTING.md
 
